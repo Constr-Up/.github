@@ -1,5 +1,5 @@
 <h5 align="center">
-  <img src="./logo.png" height="100px" /><br>  
+  <img src="https://github.com/Constr-Up/.github/blob/main/profile/logo.png" height="100px" /><br>  
 </h5>
 
 <h2 align="center">
