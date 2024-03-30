@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-top: 1rem;">
   <a href="https://construp.com.br">
     <img width="100" src="https://github.com/Constr-Up/.github/assets/42717522/ceefa2eb-6a8b-42d6-b68e-62bc75fb2234" />
   </a>
